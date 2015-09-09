@@ -1,2 +1,2 @@
-# imm-2016
+# IMM 2106
 interactive media design
